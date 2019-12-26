@@ -1,5 +1,5 @@
 package sort;
-
+//合并排序
 public class MergeSort {
     public static void mergeSort(int[]arr,int low,int high){
         int middle=(high+low)/2;
