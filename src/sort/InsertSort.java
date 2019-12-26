@@ -1,5 +1,5 @@
 package sort;
-
+//插入排序
 public class InsertSort {
     //插入排序
     //两两比较，然后替换
